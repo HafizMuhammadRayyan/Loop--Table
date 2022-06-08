@@ -8,7 +8,7 @@ body{
     background-image: url(images/backimg00011-01-01.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; 
+    /* background-attachment: fixed;  */
     background-position: relative;
 }
 
@@ -36,28 +36,28 @@ body{
     height: 30px;
     border-radius: 5px;
     margin-left: 13%;
-    margin-top: 37vh;
+    margin-top: 19%;
 }
 #input2 {
     position: absolute;
     width: 125px;
     height: 30px;
     border-radius: 5px;
-    margin-left: 51vh;
-    margin-top: 37vh;
+    margin-left: 55vh;
+    margin-top: 19%;
 }
 
 
 #intext1{
     position: absolute;
-    margin-left: 26vh;
-    margin-top: 34vh;
+    margin-left: 13%;
+    margin-top: 17%;
     
 }
 #intext2{
     position: absolute;
-    margin-left: 51vh;
-    margin-top: 34vh;
+    margin-left: 26%;
+    margin-top: 17%;
     
 }
 #result{
@@ -76,12 +76,16 @@ body{
 }
 #btn{
     position: absolute;
-    width: 53px;
-    height: 139px;
-    border-radius: 16px;
-    margin-left: 76vh;
-    margin-top: 28vh;
+    background-color: aqua;
+    color: white;
+    border: none;
+    width: 91px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 149vh;
+    margin-top: 90vh;
 }
+
 
 #name{
     position: absolute;
