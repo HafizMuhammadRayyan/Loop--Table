@@ -43,7 +43,7 @@ body{
     width: 125px;
     height: 30px;
     border-radius: 5px;
-    margin-left: 55vh;
+    margin-left: 25.8%;
     margin-top: 19%;
 }
 
@@ -51,13 +51,15 @@ body{
 #intext1{
     position: absolute;
     margin-left: 13%;
-    margin-top: 17%;
+    margin-top: 17.3%;
+    color: #6e3d0b;
     
 }
 #intext2{
     position: absolute;
     margin-left: 26%;
-    margin-top: 17%;
+    margin-top: 17.3%;
+    color: #6e3d0b;
     
 }
 #result{
@@ -77,13 +79,13 @@ body{
 #btn{
     position: absolute;
     background-color: aqua;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     width: 91px;
     height: 30px;
     border-radius: 10px;
-    margin-left: 149vh;
-    margin-top: 90vh;
+    margin-left: 68%;
+    margin-top: 43.3%;
 }
 
 
